@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\bin\Debug\Pets.mdf
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\bin\Debug\Pets_log.ldf
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\bin\Debug\CatsandDogsDB.exe.config
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\bin\Debug\CatsandDogsDB.exe
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\bin\Debug\CatsandDogsDB.pdb
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.Form1.resources
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.Properties.Resources.resources
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.exe
+C:\Users\opilane\source\repos\CatsandDogsDB\CatsandDogsDB\obj\Debug\CatsandDogsDB.pdb
